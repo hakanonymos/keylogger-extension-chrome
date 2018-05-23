@@ -15,3 +15,5 @@ ce keylogger envoie les donnés dans la boite email via PHP . https://www.youtub
              Envoyer le fichier " chrome " dans votre serveur par exemple : http:exemple.com/chrome
 JE NE SUIS EN AUCUN CAS RESPONSABLE DE VOS ACTES
 Juste à but educative 
+
+Pour tester le keylogger sans le mettre dans le webstore suivre cette vidéo https://www.youtube.com/watch?v=WbjEBn_970U&t=58s
