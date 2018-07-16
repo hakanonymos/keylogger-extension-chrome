@@ -12,7 +12,7 @@ ce keylogger envoie les donnés dans la boite email via PHP . https://www.youtub
 
                       send.php          , votre email et votre site web
 
-             Envoyer le fichier " chrome " dans votre serveur par exemple : http:exemple.com/chrome
+             Envoyer le fichier " chrome " dans votre serveur par exemple : http://exemple.com/chrome
 JE NE SUIS EN AUCUN CAS RESPONSABLE DE VOS ACTES
 Juste à but educative 
 
